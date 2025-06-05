@@ -11,3 +11,7 @@ Ele acessa o site [quotes.toscrape.com](https://quotes.toscrape.com/) e extrai t
 - [requests](https://pypi.org/project/requests/)
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 
+## Melhorias a fazer
+
+- Possibiliar a leitura além da página principal
+- Armazenar dados em arquivos
